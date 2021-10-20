@@ -1,0 +1,17 @@
+.home {
+
+    height: 100vh;
+    background-color: white;
+    overflow: hidden;
+}
+
+.homeWidgets {
+    
+    margin: 20px;
+    height: 50%;
+  }
+  .homeWidget2 {
+          
+    margin: 20px;
+    height: 50%;
+  }
